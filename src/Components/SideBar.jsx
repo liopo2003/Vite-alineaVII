@@ -11,7 +11,7 @@ export default function Sidebar() {
           <a class="nav-link" href="/Pagina1">Pagina 1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Pagina2">Pagina 2</a>
+          <a class="nav-link" href="/Pagina2">Pagina 2</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="Pagina3">Pagina 3</a>
